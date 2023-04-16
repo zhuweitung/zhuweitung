@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 
 <!-- ![AcFunCard](https://discovery.sunness.dev/625724?bg_color=0d1117&followed_color=c9d1d9&following_color=c9d1d9&content_color=c9d1d9&club_color=c9d1d9&medal_color=c9d1d9&level_color=c9d1d9) -->
 
-![zhuweitung's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![zhuweitung's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhuweitung&show_icons=true&theme=radical)
